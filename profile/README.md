@@ -32,10 +32,10 @@
 **sharing knowledge, tools, libraries, and ideas — freely and openly**.
 
 We believe in:
-- Open collaboration
-- Clean and reusable code
-- Learning by building
-- Zero gatekeeping
+🔹 Open collaboration
+🔹 Clean and reusable code
+🔹 Learning by building
+🔹 Zero gatekeeping
 
 Whether you're a beginner or an experienced developer, **Star is for you**.
 
@@ -88,11 +88,11 @@ Star exists to **empower developers**, not restrict them.
 ## 🤝 Contribute
 
 We welcome:
-- New projects
-- Improvements & refactors
-- Bug fixes
-- Documentation
-- Ideas & discussions
+🔹 New projects
+🔹 Improvements & refactors
+🔹 Bug fixes
+🔹 Documentation
+🔹 Ideas & discussions
 
 If it’s useful, ethical, and open — it belongs in **Star**.
 
