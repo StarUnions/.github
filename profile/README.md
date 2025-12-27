@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Star&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  <img src="assets/banner.jpg" width="180" alt="star banner" />
 
 # ⭐ Star
 
