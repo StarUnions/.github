@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="banner.jpg" width="180" alt="star banner" />
+  <img src="https://raw.githubusercontent.com/StarUnions/.github/refs/heads/main/banner.jpg"
 
 # ⭐ Star
 
