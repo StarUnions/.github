@@ -1,7 +1,8 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/StarUnions/.github/refs/heads/main/banner.jpg"
-
+  <img src="https://raw.githubusercontent.com/StarUnions/.github/refs/heads/main/banner.jpg" 
+       alt="Star Banner" 
+       width="100%"/>
 # ⭐ Star
 
 ### A free to use open-source sharing hub  
