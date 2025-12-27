@@ -102,21 +102,6 @@ If it’s useful, ethical, and open — it belongs in **Star**.
 
 <div align="center">
 
-## 📬 Contact & Community
-
-📧 **Email:** star.communal@gmail.com  
-💬 **Discord:** https://discord.gg/k4ab6d9MFM  
-
-<br/>
-
-Feel free to reach out for collaboration, questions, or contributions.
-
-</div>
-
----
-
-<div align="center">
-
 ### ⭐ If you like what we do, consider starring our repositories  
 It helps the community grow.
 
