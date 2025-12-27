@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/banner.jpg" width="180" alt="star banner" />
+  <img src="banner.jpg" width="180" alt="star banner" />
 
 # ⭐ Star
 
